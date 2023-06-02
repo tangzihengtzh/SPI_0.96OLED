@@ -1,0 +1,7 @@
+oled.c:12:6:OLED_WriteCmd	3
+oled.c:38:6:OLED_WriteData	3
+oled.c:64:6:OLED_DisON	1
+oled.c:71:6:OLED_DisOFF	1
+oled.c:78:6:OLED_Clear	3
+oled.c:91:6:OLED_SetCursor	1
+oled.c:98:6:OLED_Init	1
